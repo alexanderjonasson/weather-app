@@ -4,6 +4,8 @@ A weather app built with React and Vite. Search for a city (with autocomplete) o
 
 By [Alexander Jonasson](https://github.com/alexanderjonasson).
 
+**Live:** [weather-app-nu-opal-37.vercel.app](https://weather-app-nu-opal-37.vercel.app)
+
 ## Features
 
 - City search with suggestions as you type (debounce and aborted requests)
